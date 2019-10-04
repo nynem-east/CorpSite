@@ -37,7 +37,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Locations
+                                        Destinations
                                     </a>
                                     <ul>
                                         <li>
