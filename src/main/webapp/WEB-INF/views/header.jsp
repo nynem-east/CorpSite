@@ -37,7 +37,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Destinations
+                                        Salutations
                                     </a>
                                     <ul>
                                         <li>
