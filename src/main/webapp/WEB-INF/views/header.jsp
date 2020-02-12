@@ -37,7 +37,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Salutations
+                                        Mercury
                                     </a>
                                     <ul>
                                         <li>
