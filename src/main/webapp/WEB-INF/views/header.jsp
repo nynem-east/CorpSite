@@ -37,7 +37,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Destination
+                                        Mercury
                                     </a>
                                     <ul>
                                         <li>
