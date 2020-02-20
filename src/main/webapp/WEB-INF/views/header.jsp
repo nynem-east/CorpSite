@@ -37,7 +37,7 @@
                                 </li>
                                 <li>
                                     <a href="#">
-                                        Venus
+                                        Ghosttowns
                                     </a>
                                     <ul>
                                         <li>
